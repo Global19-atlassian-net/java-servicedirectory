@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/googleapis/java-servicedirectory/compare/v1.0.3...v1.1.0) (2021-02-16)
+
+
+### Features
+
+* update java samples to v1 ([#274](https://www.github.com/googleapis/java-servicedirectory/issues/274)) ([b3c0230](https://www.github.com/googleapis/java-servicedirectory/commit/b3c02302c9c1453f3009b8f4e6474fb6ad68d83e))
+
 ### [1.0.3](https://www.github.com/googleapis/java-servicedirectory/compare/v1.0.2...v1.0.3) (2021-01-14)
 
 
